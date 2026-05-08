@@ -3,3 +3,5 @@
 *.pdf
 *.zip
 *.csv
+*.DS_Store
+*.json
